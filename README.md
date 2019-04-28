@@ -1,6 +1,5 @@
 # DevOps  
-shell script  
-此模块为收集和修改的日常用sh脚本  
+为收集和修改的日常用sh脚本  
 目录如下  
 1、Denial of Service.sh  
 DOS攻击行为防火墙IP屏蔽  
